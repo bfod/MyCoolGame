@@ -1,1 +1,1 @@
-this isMyCoolGame
+MyCoolGame
